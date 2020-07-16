@@ -48,7 +48,15 @@ confirm("Are you over 18?");
 Alert, Prompt, Confirm
 
 
+
+
 Hello
+
+what is your age?
 null
+
+are you over 18? ok
 true
+
+are you over 18? cancel
 false
